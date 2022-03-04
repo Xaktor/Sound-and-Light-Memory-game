@@ -46,16 +46,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+The guide you provided is a little bit outdated, so I was just playing around on glitch in order to find the best-suited template for my project. Also, the videos on how to export my glitch project to GitHub were also outdated, so I just clicked on every single button in glitch menu to find what I was looking for. Overall, this project was very easy to follow and complete so there were significant obstacles I encountered throughout the completion of this project.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I'm still a little bit confused on how buttons produce sounds, but it seems like you play sound at a certain frequency to do that. Also, I would like to learn more about animating web pages since in this project, the only things that I would call animated are buttons, and they just switch colors. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I would put additional background which would be responsive to actions the user makes. I would probably make the UI prettier since right now it looks elementary, but I'm not sure whether it's a bad thing.
 
 
 
