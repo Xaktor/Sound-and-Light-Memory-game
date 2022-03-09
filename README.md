@@ -6,7 +6,7 @@ Submitted by: **Radmir Sataev**
 
 Time spent: **2** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/jumpy-heavenly-offer
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<img src='memory game.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='memory game presentation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
