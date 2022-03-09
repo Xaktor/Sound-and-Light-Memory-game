@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<img src='memory game presentation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='memore game presentation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
